@@ -1,0 +1,1 @@
+alert("Hallo ini berasal dari eksternal");
